@@ -1,4 +1,6 @@
-🌐 Live Demo Web Preview: https://marvelous-churros-7a866c.netlify.app/# Mobile Journal App
+🌐 Live Demo Web Preview: https://marvelous-churros-7a866c.netlify.app/
+
+# Mobile Journal App
 
 A cross-platform mobile journaling app built for the **Proxie Studio App Development Evaluation (Round 1)**.
 
